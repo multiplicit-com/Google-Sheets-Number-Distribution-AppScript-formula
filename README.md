@@ -4,7 +4,7 @@ This Google Sheets AppScript macro script provides various distribution models f
 
 All the numbers at each step will add up to the the 'goal' you provided. When expressed as a percentage the percentage of each 'step' will add up to 100%.
 
-Note - there is also a verion for Excel, which you can find here: https://github.com/multiplicit-com/Excel-Number-Distribution-VBA 
+Note - there is also a version for Excel, which you can find here: https://github.com/multiplicit-com/Excel-Number-Distribution-VBA 
 
 ## Distribution Models
 
