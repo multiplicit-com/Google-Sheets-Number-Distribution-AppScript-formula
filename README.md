@@ -14,7 +14,7 @@ The script currently supports the following distribution models:
 2. **Logarithmic Distribution**: Distributes the target value such that the values start low and increase gradually.
 3. **Exponential Distribution**: Distributes the target value such that the values start low and increase rapidly.
 4. **Normal Distribution**: Distributes the target value according to a normal distribution curve, peaking in the middle.
-5. **Quadratic Distribution**: Distributes the target value such that the values start low and increase sharply towards the end, creating a "ski jump" shape.
+5. **Quadratic Distribution**: Distributes the target value such that the values start low and increase sharply towards the end, creating a "ski jump" incline which is increases more gradually than the steeper and more severe 'exponential' model.
 
 ![distribution_models](https://github.com/multiplicit-com/Excel-Number-Distribution-VBA/assets/127529943/ba33b90a-df10-4d72-a0cb-845f72149f7b)
 
