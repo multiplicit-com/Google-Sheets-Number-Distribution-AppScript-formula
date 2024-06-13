@@ -28,7 +28,7 @@ To use the AppScript, follow these steps:
 4. Save the script by clicking on the floppy disk icon or pressing Ctrl + S.
 
 ## Usage
-Once installed, the **DistributeGoal** function can be called like any formula in your Sheet.
+Once installed, the **DISTRIBUTEGOAL** function can be called like any formula in your Sheet.
 
 ### Parameters
 
