@@ -24,8 +24,8 @@ To use the AppScript, follow these steps:
 
 1. Open your Google Sheets.
 2. Go to Extensions > Apps Script.
-3. Delete any code in the script editor and replace it with the VBA code from this repository.
-4. Save the script by clicking on the floppy disk icon or pressing Ctrl + S.
+3. Delete any code in the script editor and replace it with the code from this repository.
+5. Save the script by clicking on the floppy disk icon or pressing Ctrl + S.
 
 ## Usage
 Once installed, the **DISTRIBUTEGOAL** function can be called like any formula in your Sheet.
